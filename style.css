@@ -1,0 +1,15 @@
+.jumbotron img {
+	max-width: 100%
+}
+
+body {
+	padding-top:75px;
+}
+
+h1 {
+	font-family: 'Slabo 27px', serif;
+}
+
+p {
+	margin-top:20px;
+}
